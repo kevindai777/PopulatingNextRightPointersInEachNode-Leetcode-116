@@ -1,4 +1,4 @@
-//Objective is to add a 'next' pointer to every node in a binary tree (does not have to be perfect),
+//Objective is to add a 'next' pointer to every node in a perfect binary tree,
 //where each 'next' pointer points to the next node to the right. If there is no
 //such node, the pointer points to null
 
